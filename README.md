@@ -10,3 +10,6 @@ What attracts me most is its focus on **memory safety without garbage collection
 The survey also highlights the growing adoption in infrastructure, blockchain, and game development, which aligns with where I want to focus my career.
 
 (kaiyuan wu/  qiexian-mf)
+
+**Comment by Bree Choi**
+This README clearly explains why the Rust article is interesting.The focus on memory safety and performance is well highlighted.I like how the author connects Rust’s popularity to real-world use cases.
